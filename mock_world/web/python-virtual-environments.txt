@@ -1,0 +1,5 @@
+Python virtual environments explained
+A virtual environment is a private folder of Python packages for one project.
+It keeps the packages for one project separate from every other project, so
+upgrading a library in one place does not break something else. Tools such as
+venv and uv can create and manage virtual environments for you.

@@ -1,0 +1,12 @@
+From: office@example.com
+To: you@example.com
+Subject: Friday lunch order
+Date: 2026-11-03
+
+Hello everyone,
+
+We are ordering lunch for Friday. Options are vegetable curry, a chicken
+salad, or a cheese sandwich. Please reply with your choice by Thursday noon.
+
+Cheers,
+The office team

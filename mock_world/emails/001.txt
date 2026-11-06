@@ -1,0 +1,12 @@
+From: priya.nair@example.com
+To: you@example.com
+Subject: Team meeting moved to Thursday
+Date: 2026-11-02
+
+Hi,
+
+Just a heads up: this week's team meeting has moved from Wednesday to
+Thursday at 2pm. Same room as usual. Please bring your project updates.
+
+Thanks,
+Priya

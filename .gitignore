@@ -21,3 +21,6 @@ runs/
 .DS_Store
 .vscode/
 .idea/
+
+# Runtime log written by the send_message tool
+mock_world/outbox.log
