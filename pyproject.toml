@@ -1,0 +1,7 @@
+[project]
+name = "agent-torture-lab"
+version = "0.1.0"
+description = "Automated attack harness for a small tool-using LLM agent, with switchable defences and measured results."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
